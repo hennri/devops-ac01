@@ -74,3 +74,4 @@ obesidade e sobrepeso = sem frituras, doces e salgados, 5 a 6 refeições (peque
 Links: OK - Usuário insere peso (kg) e altura (cm) e o sexo; o resultado Peso (2) classifica entre "abaixo do peso", "peso normal" e "sobrepeso e obesidade" entre "homem" e "mulher" (3) conforme parâmetros (2); a função retorna os resusltados conforme cada recomendação (4)
 
 # Ana Rafaela Batista Ginuino - 1701915
+# Lucas Ribeiro Barros - RA: 1800538
