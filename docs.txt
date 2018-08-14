@@ -10,65 +10,68 @@ homem = 52 Kg
 mulher 49 Kg
 
 
-Algumas recomendaÁıes:
+Algumas recomenda√ß√µes:
 
 
-abaixo do peso = alcatra, frango, amendoim, aÁucares, banana, abacate, arroz, feij„o
+abaixo do peso = alcatra, frango, amendoim, a√ßucares, banana, abacate, arroz, feij√£o
 
 
-peso normal = evitar frituras, n„o comer tarde da noite, manter rotina de exercicios, arooz, feij„o, frango, verduras e frutas
+peso normal = evitar frituras, n√£o comer tarde da noite, manter rotina de exercicios, arooz, feij√£o, frango, verduras e frutas
 
 
-obesidade e sobrepeso = sem fritura, sdoces e salgados, 5 a 6 refeiÁıes (pequenas quantidades, intervalo de 3 horas), mastigar bem, saladas, lÌquido, alimentos integrais
+obesidade e sobrepeso = sem fritura, sdoces e salgados, 5 a 6 refei√ß√µes (pequenas quantidades, intervalo de 3 horas), mastigar bem, saladas, l√≠quido, alimentos integrais
 
-Design
+Design - Sergio Ferraz Almeida - RA 1800709
 Requisitos:
 
 1-Fotrmula IMC=peso/altura x altura 
-2-Peso - ClassificaÁ„o entre "abaixo do peso" = 18,4;"peso normal" = 18,5;"sobrepeso e obesidade" = 30 + 
+2-Peso - Classifica√ß√£o entre "abaixo do peso" = 18,4;"peso normal" = 18,5;"sobrepeso e obesidade" = 30 + 
 3-Peso ideal: "homem" = 52 Kg; "mulher" 49 Kg 
-4-RecomendaÁıes: 
-abaixo do peso = alcatra, frango, amendoim, aÁucares, banana, abacate, arroz, feij„o
+4-Recomenda√ß√µes: 
+abaixo do peso = alcatra, frango, amendoim, a√ßucares, banana, abacate, arroz, feij√£o
 
 
-peso normal = evitar frituras, n„o comer tarde da noite, manter rotina de exercicios, arooz, feij„o, frango, verduras e frutas
+peso normal = evitar frituras, n√£o comer tarde da noite, manter rotina de exercicios, arooz, feij√£o, frango, verduras e frutas
 
 
-obesidade e sobrepeso = sem frituras, doces e salgados, 5 a 6 refeiÁıes (pequenas quantidades, intervalo de 3 horas), mastigar bem, saladas, lÌquido, alimentos integrais
+obesidade e sobrepeso = sem frituras, doces e salgados, 5 a 6 refei√ß√µes (pequenas quantidades, intervalo de 3 horas), mastigar bem, saladas, l√≠quido, alimentos integrais
 
 
 Links: 
-Usu·rio insere peso (kg) e altura (cm) e o sexo; o resultado Peso (2) classifica entre "abaixo do peso", "peso normal" e "sobrepeso e obesidade" entre "homem" e "mulher" (3) conforme par‚metros (2); a funÁ„o retorna os resusltados conforme cada recomendaÁ„o (4) 
+Usu√°rio insere peso (kg) e altura (cm) e o sexo; o resultado Peso (2) classifica entre "abaixo do peso", "peso normal" e "sobrepeso e obesidade" entre "homem" e "mulher" (3) conforme par√¢metros (2); a fun√ß√£o retorna os resusltados conforme cada recomenda√ß√£o (4) 
 
-CodificaÁ„o
+Codifica√ß√£o Guilherme Ribeiro Nogueira 1800232 guirn222
 
-1- tela que recebe peso, altura e sexo e faz a conta guarda em vari·veis e faz a conta IMC=peso/altura x altura 
+1- tela que recebe peso, altura e sexo e faz a conta guarda em vari√°veis e faz a conta IMC=peso/altura x altura 
 
-2- tela que mostra o peso da peso da pessoa seguindo as determinadas regras com o IMC "abaixo do peso" = 18,4;"peso normal" = 8,5;"sobrepeso e obesidade" = 30 + levando em concideraÁ„o o genero e apÛs isso mostra o peso ideal seguindo a regra: "homem" = 52 Kg; "mulher" 49 Kg 
+2- tela que mostra o peso da peso da pessoa seguindo as determinadas regras com o IMC "abaixo do peso" = 18,4;"peso normal" = 8,5;"sobrepeso e obesidade" = 30 + levando em concidera√ß√£o o genero e ap√≥s isso mostra o peso ideal seguindo a regra: "homem" = 52 Kg; "mulher" 49 Kg 
 
-3- uma tela indicando uma orientaÁ„o para cada tipo de peso seguindo a regra: peso normal = evitar frituras, n„o comer tarde da noite, manter rotina de exercicios, arooz, feij„o, frango, verduras e frutas 
+3- uma tela indicando uma orienta√ß√£o para cada tipo de peso seguindo a regra: peso normal = evitar frituras, n√£o comer tarde da noite, manter rotina de exercicios, arooz, feij√£o, frango, verduras e frutas 
 
-obesidade e sobrepeso = sem frituras, doces e salgados, 5 a 6 refeiÁıes (pequenas quantidades, intervalo de 3 horas), mastigar bem, saladas, lÌquido, alimentos integrais 
+obesidade e sobrepeso = sem frituras, doces e salgados, 5 a 6 refei√ß√µes (pequenas quantidades, intervalo de 3 horas), mastigar bem, saladas, l√≠quido, alimentos integrais 
 
-FÛrmula IMC = peso/altura x altura
+F√≥rmula IMC = peso/altura x altura
 
 abaixo do peso = 18,4 ok peso normal = 18,5 sobrepeso e obesidade = 30 +
 
 peso idea homem = 52 Kg mulher 49 Kg Ok
 
-Algumas recomendaÁıes:Ok
+Algumas recomenda√ß√µes:Ok
 
-abaixo do peso = alcatra, frango, amendoim, aÁucares, banana, abacate, arroz, feij„o
+abaixo do peso = alcatra, frango, amendoim, a√ßucares, banana, abacate, arroz, feij√£o
 
-peso normal = evitar frituras, n„o comer tarde da noite, manter rotina de exercicios, arooz, feij„o, frango, verduras e frutas
+peso normal = evitar frituras, n√£o comer tarde da noite, manter rotina de exercicios, arooz, feij√£o, frango, verduras e frutas
 
-obesidade e sobrepeso = sem frituras, doces e salgados, 5 a 6 refeiÁıes (pequenas quantidades, intervalo de 3 horas), mastigar bem, saladas, lÌquido, alimentos integrais
+obesidade e sobrepeso = sem frituras, doces e salgados, 5 a 6 refei√ß√µes (pequenas quantidades, intervalo de 3 horas), mastigar bem, saladas, l√≠quido, alimentos integrais
 
-Testes
-Requisitos:OK 1-Fotrmula IMC=peso/altura x altura 2-Peso - ClassificaÁ„o entre "abaixo do peso" = 18,4;"peso normal" = 18,5;"sobrepeso e obesidade" = 30 + 3-Peso ideal: "homem" = 52 Kg; "mulher" 49 Kg 4-RecomendaÁıes: abaixo do peso = alcatra, frango, amendoim, aÁucares, banana, abacate, arroz, feij„o
+Testes - Natalia Pandolfi R.a:1800825 Github: Padawolf
+Requisitos:OK 1-Fotrmula IMC=peso/altura x altura 2-Peso - Classifica√ß√£o entre "abaixo do peso" = 18,4;"peso normal" = 18,5;"sobrepeso e obesidade" = 30 + 3-Peso ideal: "homem" = 52 Kg; "mulher" 49 Kg 4-Recomenda√ß√µes: abaixo do peso = alcatra, frango, amendoim, a√ßucares, banana, abacate, arroz, feij√£o
 
-peso normal = evitar frituras, n„o comer tarde da noite, manter rotina de exercicios, arooz, feij„o, frango, verduras e frutas
+peso normal = evitar frituras, n√£o comer tarde da noite, manter rotina de exercicios, arooz, feij√£o, frango, verduras e frutas
 
-obesidade e sobrepeso = sem frituras, doces e salgados, 5 a 6 refeiÁıes (pequenas quantidades, intervalo de 3 horas), mastigar bem, saladas, lÌquido, alimentos integrais
+obesidade e sobrepeso = sem frituras, doces e salgados, 5 a 6 refei√ß√µes (pequenas quantidades, intervalo de 3 horas), mastigar bem, saladas, l√≠quido, alimentos integrais
 
-Links: oK Usu·rio insere peso (kg) e altura (cm) e o sexo; o resultado Peso (2) classifica entre "abaixo do peso", "peso normal" e "sobrepeso e obesidade" entre "homem" e "mulher" (3) conforme par‚metros (2); a funÁ„o retorna os resusltados conforme cada recomendaÁ„o (4)
+Links: OK - Usu√°rio insere peso (kg) e altura (cm) e o sexo; o resultado Peso (2) classifica entre "abaixo do peso", "peso normal" e "sobrepeso e obesidade" entre "homem" e "mulher" (3) conforme par√¢metros (2); a fun√ß√£o retorna os resusltados conforme cada recomenda√ß√£o (4)
+
+# Ana Rafaela Batista Ginuino - 1701915
+# Lucas Ribeiro Barros - RA: 1800538
