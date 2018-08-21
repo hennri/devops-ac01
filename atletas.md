@@ -1,6 +1,6 @@
 # Melhores atletas
 # João do Pulo
 # Ayrton Senna
-# Hulk Hogan
+# Tom Brady
 # Michael Jordan
 # Rocky Balboa
